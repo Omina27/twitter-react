@@ -1,0 +1,38 @@
+.container {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logHeading{
+    font-family: "Poppins";
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+.form {
+    max-width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    
+}
+
+.logBtn {
+    display: block;
+    border: 1px solid #1DA1F3;
+    background-color: #1DA1F3;
+    color: #fff;
+    padding: 13px;
+    border-radius: 18px;
+}
+
+.logInput{
+    padding: 15px;
+    margin-bottom: 18px;
+    border: none;
+    border-bottom: 1px solid #1da1f3;
+}
+
+
